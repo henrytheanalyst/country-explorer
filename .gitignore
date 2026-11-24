@@ -1,0 +1,13 @@
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
+
+node_modules/
+env/
+dist/
+build/
+out/
+target/
+*.db
